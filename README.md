@@ -18,7 +18,8 @@ The whole system is based on the AWS cloud and uses Comprehend to judge the inpu
 
 ## 3 Video
 
-[Demo]
+[Demo]()
+
 [PPT](https://www.youtube.com/watch?v=8BWzlhqQAg0&feature=youtu.be)
 
 ## 4 Presentation Document
@@ -32,7 +33,7 @@ The src folder contains the code used for building the system. It contains code 
 
 Website Template Credits: https://templatemo.com/tm-525-the-town
 
-## 5 Team Member 
+## 6 Team Members 
 
 aimanjawaid.haider@duke.edu, maobin.guo@duke.edu,  xinyi.pan@duke.edu, 
 
