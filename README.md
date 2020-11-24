@@ -18,9 +18,9 @@ The whole system is based on the AWS cloud and uses Comprehend to judge the inpu
 
 ## 3 Video
 
-[Demo]()
+[Demo] 
 
-[PPT](https://www.youtube.com/watch?v=8BWzlhqQAg0&feature=youtu.be)
+https://www.youtube.com/watch?v=8BWzlhqQAg0&feature=youtu.be
 
 ## 4 Presentation Document
 
